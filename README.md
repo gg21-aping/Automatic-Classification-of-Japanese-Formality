@@ -1,1 +1,1 @@
-# Japanese-Formality-Corpus
+# Automatic Classification of Japanese Formality
